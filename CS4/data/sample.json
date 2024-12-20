@@ -1,0 +1,3361 @@
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "id_h": "vDrqI0GVPxRfGTA8S15KaQ",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1491703259888",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    11
+                ],
+                "id_str_h": "Se4dPAoIl3l5o6hb7KyBtg",
+                "id_h": "Se4dPAoIl3l5o6hb7KyBtg",
+                "screen_name_h": "ni5gBb-Wd09AATHp_0BNWQ",
+                "name_h": "JpQsqKSyOqGUYt-r1Wn2uQ"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [],
+        "urls": []
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: ni5gBb-Wd09AATHp_0BNWQ : Vados argues that they all owe Goku their lives. Without his tournament idea, Omni-King would've just destroyed their universe\u00e2\u0080\u00a6",
+    "retweeted_status": {
+        "quote_count": 4,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 11,
+        "favorite_count": 109,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "id_h": "XQFFKrN4jekP1eBSssFQsQ",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [],
+            "urls": []
+        },
+        "in_reply_to_user_id_str_h": "",
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 23,
+        "favorited": false,
+        "text_m": "Vados argues that they all owe Goku their lives. Without his tournament idea, Omni-King would've just destroyed their universes right away.",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/GXhMqpnBrEunkJ0CRQ-egQ/KVs9sOhLjaZWS-wgiXA93A",
+            "screen_name_h": "ni5gBb-Wd09AATHp_0BNWQ",
+            "geo_enabled": false,
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+            "id_h": "Se4dPAoIl3l5o6hb7KyBtg",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "is_translator": false,
+            "profile_text_color": "333333",
+            "followers_count": 21924,
+            "protected": false,
+            "location": null,
+            "default_profile_image": false,
+            "listed_count": 41,
+            "utc_offset": null,
+            "statuses_count": 19629,
+            "profile_background_color": "C0DEED",
+            "friends_count": 113,
+            "profile_link_color": "1DA1F2",
+            "notifications": null,
+            "name_h": "JpQsqKSyOqGUYt-r1Wn2uQ",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 6086,
+            "created_at": "Thu Oct 01 20:09:46 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+            "id_str_h": "Se4dPAoIl3l5o6hb7KyBtg",
+            "profile_sidebar_border_color": "C0DEED",
+            "default_profile": true,
+            "url_h": "http://www.kanzenshuu.com",
+            "following": null,
+            "description_m": "DB translations. DB Super spoilers. Yu Yu Hakusho re-watch.",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/GXhMqpnBrEunkJ0CRQ-egQ/KVs9sOhLjaZWS-wgiXA93A"
+        },
+        "geo": null,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Sunday",
+            "socialsim_keywords": [
+                "omni"
+            ],
+            "created_hod": 0
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Sun Apr 09 00:19:22 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "XQFFKrN4jekP1eBSssFQsQ",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": false,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/rjRiXcmzaznG70meh_Gmlw/TXi8UHERW-6vdRDo1uiecg",
+        "screen_name_h": "yR2tVLACDFwL1MmrfHWzSg",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/GpiuNvbRtbXwfynWiD_czA/O_UIPSpoFgN0MV01X7LnLQ",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_h": "GpiuNvbRtbXwfynWiD_czA",
+        "profile_sidebar_fill_color": "000000",
+        "is_translator": false,
+        "profile_text_color": "000000",
+        "followers_count": 450,
+        "protected": false,
+        "location": "Malaysia",
+        "default_profile_image": false,
+        "listed_count": 2,
+        "utc_offset": null,
+        "statuses_count": 2967,
+        "profile_background_color": "000000",
+        "friends_count": 19,
+        "derived": {
+            "locations": [
+                {
+                    "country": "Malaysia",
+                    "geo": {
+                        "type": "point",
+                        "coordinates": [
+                            112.5,
+                            2.5
+                        ]
+                    },
+                    "country_code": "MY",
+                    "full_name": "Malaysia"
+                }
+            ]
+        },
+        "profile_link_color": "E81C4F",
+        "notifications": null,
+        "name_h": "UECSpolY22MoKWa-O_6cFA",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 672,
+        "created_at": "Tue Oct 26 03:24:03 +0000 2010",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_str_h": "GpiuNvbRtbXwfynWiD_czA",
+        "profile_sidebar_border_color": "000000",
+        "default_profile": false,
+        "url_h": "",
+        "following": null,
+        "description_m": "Akaun Twitter Fans Dragon Ball Seluruh Malaysia. #infoDB Sila RT tweet kami sebab tweet kami best. Sekarang Survival Arc",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/rjRiXcmzaznG70meh_Gmlw/TXi8UHERW-6vdRDo1uiecg"
+    },
+    "geo": null,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Sunday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 2
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Sun Apr 09 02:00:59 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "vDrqI0GVPxRfGTA8S15KaQ",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "id_h": "P8BK9lUulBFsOuOSgbTGXQ",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1491703355306",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    11
+                ],
+                "id_str_h": "Se4dPAoIl3l5o6hb7KyBtg",
+                "id_h": "Se4dPAoIl3l5o6hb7KyBtg",
+                "screen_name_h": "ni5gBb-Wd09AATHp_0BNWQ",
+                "name_h": "JpQsqKSyOqGUYt-r1Wn2uQ"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [],
+        "urls": []
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: ni5gBb-Wd09AATHp_0BNWQ : Vados argues that they all owe Goku their lives. Without his tournament idea, Omni-King would've just destroyed their universe\u00e2\u0080\u00a6",
+    "retweeted_status": {
+        "quote_count": 4,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 11,
+        "favorite_count": 110,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "id_h": "XQFFKrN4jekP1eBSssFQsQ",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [],
+            "urls": []
+        },
+        "in_reply_to_user_id_str_h": "",
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 24,
+        "favorited": false,
+        "text_m": "Vados argues that they all owe Goku their lives. Without his tournament idea, Omni-King would've just destroyed their universes right away.",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/GXhMqpnBrEunkJ0CRQ-egQ/KVs9sOhLjaZWS-wgiXA93A",
+            "screen_name_h": "ni5gBb-Wd09AATHp_0BNWQ",
+            "geo_enabled": false,
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+            "id_h": "Se4dPAoIl3l5o6hb7KyBtg",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "is_translator": false,
+            "profile_text_color": "333333",
+            "followers_count": 21925,
+            "protected": false,
+            "location": null,
+            "default_profile_image": false,
+            "listed_count": 40,
+            "utc_offset": null,
+            "statuses_count": 19629,
+            "profile_background_color": "C0DEED",
+            "friends_count": 113,
+            "profile_link_color": "1DA1F2",
+            "notifications": null,
+            "name_h": "JpQsqKSyOqGUYt-r1Wn2uQ",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 6085,
+            "created_at": "Thu Oct 01 20:09:46 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+            "id_str_h": "Se4dPAoIl3l5o6hb7KyBtg",
+            "profile_sidebar_border_color": "C0DEED",
+            "default_profile": true,
+            "url_h": "http://www.kanzenshuu.com",
+            "following": null,
+            "description_m": "DB translations. DB Super spoilers. Yu Yu Hakusho re-watch.",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/GXhMqpnBrEunkJ0CRQ-egQ/KVs9sOhLjaZWS-wgiXA93A"
+        },
+        "geo": null,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Sunday",
+            "socialsim_keywords": [
+                "omni"
+            ],
+            "created_hod": 0
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Sun Apr 09 00:19:22 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "XQFFKrN4jekP1eBSssFQsQ",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/Xe7yS2xAbVYtdO4Jc7tfkg/yb8I_55-YHvpHpnoNr3JhA",
+        "screen_name_h": "M9zt9ZZEJZSdYL53tFlvqg",
+        "geo_enabled": true,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/N1t6Jzysm3Y885HGvTXLkQ/88vX47Bnh4KIOaF2il5tSw",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_h": "N1t6Jzysm3Y885HGvTXLkQ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 770,
+        "protected": false,
+        "location": "my own mind and soul",
+        "default_profile_image": false,
+        "listed_count": 36,
+        "utc_offset": null,
+        "statuses_count": 39784,
+        "profile_background_color": "C0DEED",
+        "friends_count": 1257,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "5l8EDEoxPVGmC8jX1XRmpA",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 41015,
+        "created_at": "Mon Feb 20 01:00:08 +0000 2012",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_str_h": "N1t6Jzysm3Y885HGvTXLkQ",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "",
+        "following": null,
+        "description_m": "Anime fan\\nJ-Rock J-Pop\\nCats\\nArt\\ncoffee + tea lover\\nDragonBall Fan\\n\\nrecommend anime to me",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/Xe7yS2xAbVYtdO4Jc7tfkg/yb8I_55-YHvpHpnoNr3JhA"
+    },
+    "geo": null,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Sunday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 2
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Sun Apr 09 02:02:35 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "P8BK9lUulBFsOuOSgbTGXQ",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "id_h": "UVggfpCLVQEr6e10ZCe4eg",
+    "retweeted": false,
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -71.0597,
+            42.3582
+        ]
+    },
+    "timestamp_ms": "1491703534753",
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [],
+        "urls": [
+            {
+                "indices": [
+                    30,
+                    53
+                ],
+                "expanded_url_h": "https://www.instagram.com/g4eMkRcTOJAuD-D7l6jEeg/HzTGXFXIKQP7OE_A7B13wA/",
+                "display_url_h": "instagram.com/g4eMkRcTOJAuD-D7l6jEeg/HzTGXFXIKQP7OE_A7B13wA/",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "0 Likes, 1 Comments - Fakisha\u00f0\u009f\u0092\u0081\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u0091\u00f0\u009f\u0092\u008b\u00f0\u009f\u0096\u00a4 (@un: Yu4pGMxdPBcbXxV6fRLFHQ ) on Instagram: \u00e2\u0080\u009cMelanin \u00f0\u009f\u0092\u00a5\u00e2\u0080\u009d",
+                    "url_h": "https://www.instagram.com/g4eMkRcTOJAuD-D7l6jEeg/HzTGXFXIKQP7OE_A7B13wA/",
+                    "title": "Instagram post by Fakisha\u00f0\u009f\u0092\u0081\u00f0\u009f\u008f\u00be\u00f0\u009f\u0091\u0091\u00f0\u009f\u0092\u008b\u00f0\u009f\u0096\u00a4 \u00e2\u0080\u00a2 Apr 9, 2017 at 2:05am UTC"
+                },
+                "url_h": "https://t.co/yl_Uuckb1A_OOaoQgXriaw"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "Melanin \u00f0\u009f\u0092\u00a5 @ Omni Parker House  url: https://t.co/yl_Uuckb1A_OOaoQgXriaw ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/wX50D3Va0rNDiH_GLDDggg/VT93XY8oJYLbAU_qxDl0cQ",
+        "screen_name_h": "69SiPa7RvEYQ7i7bvWhMIw",
+        "geo_enabled": true,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/J7cIIyhO_8L3P1V_U-HlLw/lojwEALXRsJv2Nlx77LyLw",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/1bW8SOfXxMRaAmL_K1gcLg/9VrxSqt6isvNun7PwdcdQg",
+        "id_h": "J7cIIyhO_8L3P1V_U-HlLw",
+        "profile_sidebar_fill_color": "E5507E",
+        "is_translator": false,
+        "profile_text_color": "362720",
+        "followers_count": 261,
+        "protected": false,
+        "location": "Boston, Mass",
+        "default_profile_image": false,
+        "listed_count": 5,
+        "utc_offset": null,
+        "statuses_count": 18498,
+        "profile_background_color": "FF6699",
+        "friends_count": 223,
+        "derived": {
+            "locations": [
+                {
+                    "country_code": "US",
+                    "locality": "Boston",
+                    "country": "United States",
+                    "region": "Massachusetts",
+                    "sub_region": "Suffolk County",
+                    "full_name": "Boston, Massachusetts, United States",
+                    "geo": {
+                        "type": "point",
+                        "coordinates": [
+                            -71.05977,
+                            42.35843
+                        ]
+                    }
+                }
+            ]
+        },
+        "profile_link_color": "B40B43",
+        "notifications": null,
+        "name_h": "l6DbAxD9EuqU9YRw2RUbXA",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 17283,
+        "created_at": "Wed Aug 12 01:13:17 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/1bW8SOfXxMRaAmL_K1gcLg/9VrxSqt6isvNun7PwdcdQg",
+        "id_str_h": "J7cIIyhO_8L3P1V_U-HlLw",
+        "profile_sidebar_border_color": "CC3366",
+        "default_profile": false,
+        "url_h": "http://fakisha.wordpress.com",
+        "following": null,
+        "description_m": "Psalm 46:5 l \u00e2\u0099\u008f\u00ef\u00b8\u008f| \u00f0\u009f\u0087\u00ad\u00f0\u009f\u0087\u00b9 | Shaun Taheri \u00f0\u009f\u0092\u009e | Personal Use Only (see @un: SWrRGprp2Y-EidXUf837tA _Fabre)",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/wX50D3Va0rNDiH_GLDDggg/VT93XY8oJYLbAU_qxDl0cQ"
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            42.3582,
+            -71.0597
+        ]
+    },
+    "possibly_sensitive": false,
+    "lang": "da",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Sunday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 2
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Sun Apr 09 02:05:34 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "UVggfpCLVQEr6e10ZCe4eg",
+    "in_reply_to_screen_name_h": "",
+    "place": {
+        "country_code": "US",
+        "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json",
+        "country": "United States",
+        "place_type": "city",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -71.191421,
+                        42.227797
+                    ],
+                    [
+                        -71.191421,
+                        42.399542
+                    ],
+                    [
+                        -70.986004,
+                        42.399542
+                    ],
+                    [
+                        -70.986004,
+                        42.227797
+                    ]
+                ]
+            ]
+        },
+        "full_name": "Boston, MA",
+        "attributes": {},
+        "id": "67b98f17fdcf20be",
+        "name": "Boston"
+    }
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+    "id_h": "A1HDPGGoR3KFW-Fs07sFgQ",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1491703579372",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    18
+                ],
+                "id_str_h": "EIx8ODDxMbgfF_z5F8ozLw",
+                "id_h": "EIx8ODDxMbgfF_z5F8ozLw",
+                "screen_name_h": "mVxBviHtNJhYzwLtlnrDKQ",
+                "name_h": "Uifoy5fANO80u4ZrLijkXw"
+            },
+            {
+                "indices": [
+                    108,
+                    113
+                ],
+                "id_str_h": "DrUvtrXgpmT0dixT9OBQaw",
+                "id_h": "DrUvtrXgpmT0dixT9OBQaw",
+                "screen_name_h": "KCU5mHoidt1SWfjnRdZooQ",
+                "name_h": "KCU5mHoidt1SWfjnRdZooQ"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    66,
+                    79
+                ],
+                "text": "CrochetWorld"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    80,
+                    103
+                ],
+                "expanded_url_h": "http://www.ebay.com/4KMKwoPf8WFH_X37fuTOxA/M21evFQ2U05h0W5j3fyjJw/EJxxrF8Wkx4rn9LLBidxBQ",
+                "display_url_h": "ebay.com/4KMKwoPf8WFH_X37fuTOxA/M21evFQ2U05h0W5j3fyjJw/75zgVyq3qqGU-tHGNhkXCg",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "Crochet World Omni Book Spring 1983 in Books, Magazine Back Issues | eBay",
+                    "url_h": "http://www.ebay.com/4KMKwoPf8WFH_X37fuTOxA/M21evFQ2U05h0W5j3fyjJw/EJxxrF8Wkx4rn9LLBidxBQ",
+                    "title": "Crochet World Omni Book Spring 1983"
+                },
+                "url_h": "https://t.co/J4E10ehUn1dIXykFNsOE-Q"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: mVxBviHtNJhYzwLtlnrDKQ : Check out Crochet World Omni Book Spring 1983 #CrochetWorld  url: https://t.co/J4E10ehUn1dIXykFNsOE-Q  via @un: KCU5mHoidt1SWfjnRdZooQ ",
+    "retweeted_status": {
+        "quote_count": 0,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "id_h": "Clnzx7_oryrhThV-XRBSmQ",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [
+                {
+                    "indices": [
+                        88,
+                        93
+                    ],
+                    "id_str_h": "DrUvtrXgpmT0dixT9OBQaw",
+                    "id_h": "DrUvtrXgpmT0dixT9OBQaw",
+                    "screen_name_h": "KCU5mHoidt1SWfjnRdZooQ",
+                    "name_h": "KCU5mHoidt1SWfjnRdZooQ"
+                }
+            ],
+            "symbols": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        46,
+                        59
+                    ],
+                    "text": "CrochetWorld"
+                }
+            ],
+            "urls": [
+                {
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "expanded_url_h": "http://www.ebay.com/4KMKwoPf8WFH_X37fuTOxA/M21evFQ2U05h0W5j3fyjJw/EJxxrF8Wkx4rn9LLBidxBQ",
+                    "display_url_h": "ebay.com/4KMKwoPf8WFH_X37fuTOxA/M21evFQ2U05h0W5j3fyjJw/75zgVyq3qqGU-tHGNhkXCg",
+                    "unwound": {
+                        "status": 200,
+                        "description_m": "Crochet World Omni Book Spring 1983 in Books, Magazine Back Issues | eBay",
+                        "url_h": "http://www.ebay.com/4KMKwoPf8WFH_X37fuTOxA/M21evFQ2U05h0W5j3fyjJw/EJxxrF8Wkx4rn9LLBidxBQ",
+                        "title": "Crochet World Omni Book Spring 1983"
+                    },
+                    "url_h": "https://t.co/J4E10ehUn1dIXykFNsOE-Q"
+                }
+            ]
+        },
+        "in_reply_to_user_id_str_h": "",
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 8,
+        "favorited": false,
+        "text_m": "Check out Crochet World Omni Book Spring 1983 #CrochetWorld  url: https://t.co/J4E10ehUn1dIXykFNsOE-Q  via @un: KCU5mHoidt1SWfjnRdZooQ ",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/qo5qT4_54dX_MKB6AaEhcA/o2uCcDjOthdqvZ0pWjuNkQ",
+            "screen_name_h": "mVxBviHtNJhYzwLtlnrDKQ",
+            "geo_enabled": true,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/EIx8ODDxMbgfF_z5F8ozLw/80SAxK04J9vRY4zTFDYr5A",
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/3foEfePXz3R-4zXkcQuzrA/VUR8HKo0ILoGV1qaaSJSbg",
+            "id_h": "EIx8ODDxMbgfF_z5F8ozLw",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "is_translator": false,
+            "profile_text_color": "333333",
+            "followers_count": 37255,
+            "protected": false,
+            "location": "Etsy Shop:",
+            "default_profile_image": false,
+            "listed_count": 2485,
+            "utc_offset": null,
+            "statuses_count": 597020,
+            "profile_background_color": "3B94D9",
+            "friends_count": 21393,
+            "profile_link_color": "DD2E44",
+            "notifications": null,
+            "name_h": "Uifoy5fANO80u4ZrLijkXw",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 1,
+            "created_at": "Sat Feb 28 14:20:37 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/3foEfePXz3R-4zXkcQuzrA/VUR8HKo0ILoGV1qaaSJSbg",
+            "id_str_h": "EIx8ODDxMbgfF_z5F8ozLw",
+            "profile_sidebar_border_color": "FFFFFF",
+            "default_profile": false,
+            "url_h": "https://www.etsy.com/-1TzxZkrltABuxbo6S2WjQ/mVxBviHtNJhYzwLtlnrDKQ",
+            "following": null,
+            "description_m": "David T. Salerno ~ Entrepreneur, Jeweler, Retailer, Advertiser, Consultant Main Store:  url: http://salernosjewelrystore11.ecrater.com ",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/qo5qT4_54dX_MKB6AaEhcA/o2uCcDjOthdqvZ0pWjuNkQ"
+        },
+        "geo": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Sunday",
+            "socialsim_keywords": [
+                "omni"
+            ],
+            "created_hod": 1
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Sun Apr 09 01:07:08 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "Clnzx7_oryrhThV-XRBSmQ",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/e8cfO8Rfwhv35foJM8PxZQ/beWP_bzQ3D3N16tNOShGJQ",
+        "screen_name_h": "hudqup82-BxrmKN93TAbYg",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/nLUp9Cli7fPuBSO8ghqgtQ/GJDjY8e_5o-rHiI76ybDaw",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_h": "nLUp9Cli7fPuBSO8ghqgtQ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 10240,
+        "protected": false,
+        "location": "Sydney, Australia",
+        "default_profile_image": false,
+        "listed_count": 1501,
+        "utc_offset": null,
+        "statuses_count": 662675,
+        "profile_background_color": "C0DEED",
+        "friends_count": 7336,
+        "derived": {
+            "locations": [
+                {
+                    "country_code": "AU",
+                    "locality": "Sydney",
+                    "country": "Australia",
+                    "region": "New South Wales",
+                    "sub_region": "City of Sydney",
+                    "full_name": "Sydney, New South Wales, Australia",
+                    "geo": {
+                        "type": "point",
+                        "coordinates": [
+                            151.20732,
+                            -33.86785
+                        ]
+                    }
+                }
+            ]
+        },
+        "profile_link_color": "9800B3",
+        "notifications": null,
+        "name_h": "wHFQ6Mv_0cL5LD-kbWWP8Q",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 11,
+        "created_at": "Sat Jun 14 09:07:45 +0000 2014",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_str_h": "nLUp9Cli7fPuBSO8ghqgtQ",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": false,
+        "url_h": "http://kaye-menner.artistwebsites.com",
+        "following": null,
+        "description_m": "My #FineArt #Photography and #DigitalArt for all to view.",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/e8cfO8Rfwhv35foJM8PxZQ/beWP_bzQ3D3N16tNOShGJQ"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Sunday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 2
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Sun Apr 09 02:06:19 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "A1HDPGGoR3KFW-Fs07sFgQ",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id_h": "-tK2I1WsNhFl4G3zZP-CGA",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492595828225",
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    108
+                ],
+                "text": "thisnewsid"
+            },
+            {
+                "indices": [
+                    109,
+                    113
+                ],
+                "text": "ind"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    73,
+                    96
+                ],
+                "expanded_url_h": "http://goo.gl/8E88mctujbZ2GJ6QaN6pqQ",
+                "display_url_h": "goo.gl/8E88mctujbZ2GJ6QaN6pqQ",
+                "unwound": {
+                    "status": null,
+                    "description_m": "",
+                    "url_h": "http://thisnews.id",
+                    "title": "Domain Expired"
+                },
+                "url_h": "https://t.co/K9aQasiNc1q439Wf2JmP-Q"
+            },
+            {
+                "indices": [
+                    115,
+                    138
+                ],
+                "expanded_url_h": "http://ift.tt/EHd0FAbiO_bN0XnC5wTtNA",
+                "display_url_h": "ift.tt/EHd0FAbiO_bN0XnC5wTtNA",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "Tim Nasional Timnas U19 Indonesia asuhan pelatih Indra Sjafri akan melawan Brasil di laga perdana Grup C Turnamen Toulon 2017 - Sepakbola Dunia - okezone bola",
+                    "url_h": "http://bola.okezone.com/7K4TEX1vBYTCWp2myPhBXg/jYgYyOFAxkx0MRP1Y891Dw/jnFtwx2MvW3g1Z3OK7nptQ",
+                    "title": "Tampil di Turnamen Toulon 2017, Ini Jadwal Lengkap Timnas Indonesia U-19"
+                },
+                "url_h": "https://t.co/O9o9L9pdn3Cad0cdEpmRkQ"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "Tampil di Turnamen Toulon 2017, Ini Jadwal Lengkap Timnas Indonesia U-19  url: https://t.co/K9aQasiNc1q439Wf2JmP-Q  #thisnewsid #ind\u00e2\u0080\u00a6  url: https://t.co/O9o9L9pdn3Cad0cdEpmRkQ ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8oCyv0WdfN69CjO74ySphQ/QAC5QW9gDjvihfD6w1JV9A",
+        "screen_name_h": "rSoTtfuVFv2uDiIPclluGw",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/5zLVNFeN27K4hVCH5l0exQ/Y0q5luWYq4DJKdHrIx3GdQ",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "",
+        "id_h": "5zLVNFeN27K4hVCH5l0exQ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 26,
+        "protected": false,
+        "location": null,
+        "default_profile_image": false,
+        "listed_count": 3,
+        "utc_offset": null,
+        "statuses_count": 451202,
+        "profile_background_color": "F5F8FA",
+        "friends_count": 39,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "H771UeycxcxxzmWrJ65fiQ",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 0,
+        "created_at": "Sun Mar 13 01:55:09 +0000 2016",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "",
+        "id_str_h": "5zLVNFeN27K4hVCH5l0exQ",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "http://www.thisnews.id",
+        "following": null,
+        "description_m": "thisnews.id menyediakan konten berita , hiburan, lifestyle di indonesia.",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8oCyv0WdfN69CjO74ySphQ/QAC5QW9gDjvihfD6w1JV9A"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "in",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Wednesday",
+        "socialsim_keywords": [
+            "#ind"
+        ],
+        "created_hod": 9
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Wed Apr 19 09:57:08 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "-tK2I1WsNhFl4G3zZP-CGA",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id_h": "GtlwUJxQIxEobn6ONgjjQw",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492629152229",
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    108
+                ],
+                "text": "thisnewsid"
+            },
+            {
+                "indices": [
+                    109,
+                    113
+                ],
+                "text": "ind"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    73,
+                    96
+                ],
+                "expanded_url_h": "http://goo.gl/8E88mctujbZ2GJ6QaN6pqQ",
+                "display_url_h": "goo.gl/8E88mctujbZ2GJ6QaN6pqQ",
+                "unwound": {
+                    "status": null,
+                    "description_m": "",
+                    "url_h": "http://thisnews.id",
+                    "title": "Domain Expired"
+                },
+                "url_h": "https://t.co/K9aQasiNc1q439Wf2JmP-Q"
+            },
+            {
+                "indices": [
+                    115,
+                    138
+                ],
+                "expanded_url_h": "http://ift.tt/vhyDjCeD077UyifHaTfSKw",
+                "display_url_h": "ift.tt/vhyDjCeD077UyifHaTfSKw",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "portal okezone news menyajikan kabar info berita terhangat dunia internasional terkini terlengkap terbaru hari ini di indonesia",
+                    "url_h": "http://news.okezone.com/gRdLwTa_ggKZRJycyoxJZw",
+                    "title": "Okezone News :: Berita Internasional Terkini"
+                },
+                "url_h": "https://t.co/hbxNyY9_VONtYAIjl24Xvw"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "Terlibat Skandal Korupsi, Putri Rekan Dekat Geun-hye Segera Dideportasi   url: https://t.co/K9aQasiNc1q439Wf2JmP-Q  #thisnewsid #ind\u00e2\u0080\u00a6  url: https://t.co/hbxNyY9_VONtYAIjl24Xvw ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8oCyv0WdfN69CjO74ySphQ/QAC5QW9gDjvihfD6w1JV9A",
+        "screen_name_h": "rSoTtfuVFv2uDiIPclluGw",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/5zLVNFeN27K4hVCH5l0exQ/Y0q5luWYq4DJKdHrIx3GdQ",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "",
+        "id_h": "5zLVNFeN27K4hVCH5l0exQ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 26,
+        "protected": false,
+        "location": null,
+        "default_profile_image": false,
+        "listed_count": 3,
+        "utc_offset": null,
+        "statuses_count": 451508,
+        "profile_background_color": "F5F8FA",
+        "friends_count": 39,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "H771UeycxcxxzmWrJ65fiQ",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 0,
+        "created_at": "Sun Mar 13 01:55:09 +0000 2016",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "",
+        "id_str_h": "5zLVNFeN27K4hVCH5l0exQ",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "http://www.thisnews.id",
+        "following": null,
+        "description_m": "thisnews.id menyediakan konten berita , hiburan, lifestyle di indonesia.",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8oCyv0WdfN69CjO74ySphQ/QAC5QW9gDjvihfD6w1JV9A"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "in",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Wednesday",
+        "socialsim_keywords": [
+            "#ind"
+        ],
+        "created_hod": 19
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Wed Apr 19 19:12:32 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "GtlwUJxQIxEobn6ONgjjQw",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": true,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id_h": "B_HHwyEKnRH1mtTaFaPOQw",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492629371789",
+    "quoted_status": {
+        "quote_count": 1,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 131,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "id_h": "bNrh_JxjzKzXvGLOsFg0cw",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        16,
+                        24
+                    ],
+                    "text": "fintech"
+                },
+                {
+                    "indices": [
+                        43,
+                        46
+                    ],
+                    "text": "AI"
+                },
+                {
+                    "indices": [
+                        47,
+                        63
+                    ],
+                    "text": "machinelearning"
+                },
+                {
+                    "indices": [
+                        64,
+                        75
+                    ],
+                    "text": "blockchain"
+                },
+                {
+                    "indices": [
+                        76,
+                        79
+                    ],
+                    "text": "ML"
+                },
+                {
+                    "indices": [
+                        80,
+                        84
+                    ],
+                    "text": "DLT"
+                },
+                {
+                    "indices": [
+                        85,
+                        90
+                    ],
+                    "text": "tech"
+                }
+            ],
+            "urls": [
+                {
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "expanded_url_h": "https://www.fnlondon.com/26XZGEbOGl5jc038vLSByw/2ZGOdOVFEn_2yjJdKwvdHw",
+                    "display_url_h": "fnlondon.com/26XZGEbOGl5jc038vLSByw/8VWpnCh0Q-eEE-CyBlcGbw",
+                    "unwound": {
+                        "status": 200,
+                        "description_m": "US exchange group Nasdaq wants to take minority stakes in fintech firms",
+                        "url_h": "https://www.fnlondon.com/26XZGEbOGl5jc038vLSByw/2ZGOdOVFEn_2yjJdKwvdHw",
+                        "title": "Nasdaq launches fintech venture programme"
+                    },
+                    "url_h": "https://t.co/NmYAnGXejeChqPwfF8vR8w"
+                }
+            ],
+            "media": [
+                {
+                    "sizes": {
+                        "small": {
+                            "h": 454,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "h": 667,
+                            "w": 1000,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 667,
+                            "w": 1000,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "id_h": "Ha5Jtc2g7XGSvHb92A-M0Q",
+                    "media_url_https": "https://pbs.twimg.com/media/C9ykCYaXUAA0isL.jpg",
+                    "id_str_h": "Ha5Jtc2g7XGSvHb92A-M0Q",
+                    "display_url_h": "pic.twitter.com/a5Kmwyyh-TJMVADv8JLMvA",
+                    "url_h": "https://t.co/a5Kmwyyh-TJMVADv8JLMvA",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "type": "photo",
+                    "expanded_url_h": "https://twitter.com/WIwUD94SOpGxEcQQLu2HTg/status/bNrh_JxjzKzXvGLOsFg0cw/iqsTDqqHedINEJpgKMZ8SQ",
+                    "media_url": "http://pbs.twimg.com/media/C9ykCYaXUAA0isL.jpg"
+                }
+            ]
+        },
+        "in_reply_to_user_id_str_h": "",
+        "display_text_range": [
+            0,
+            115
+        ],
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 120,
+        "favorited": false,
+        "text_m": "Nasdaq launches #fintech venture programme\\n#AI #machinelearning #blockchain #ML #DLT #tech \\n url: https://t.co/NmYAnGXejeChqPwfF8vR8w   url: https://t.co/a5Kmwyyh-TJMVADv8JLMvA ",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/hNG5Ht6zQ-qfzan5mxx5mQ/duyAz8tPNMctp3dZ10eLZQ",
+            "screen_name_h": "WIwUD94SOpGxEcQQLu2HTg",
+            "geo_enabled": false,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/Ovpv0JjOWfW348Vv7T2_8Q/jovkrqaPowXEa_g7-EnVJQ",
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+            "id_h": "Ovpv0JjOWfW348Vv7T2_8Q",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "is_translator": false,
+            "profile_text_color": "333333",
+            "followers_count": 29942,
+            "protected": false,
+            "location": null,
+            "default_profile_image": false,
+            "listed_count": 2657,
+            "utc_offset": null,
+            "statuses_count": 21910,
+            "profile_background_color": "C0DEED",
+            "friends_count": 27743,
+            "profile_link_color": "1DA1F2",
+            "notifications": null,
+            "name_h": "CkDjyRo6VcmjdCjG0ZTQ5Q",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 36888,
+            "created_at": "Sun Sep 23 10:12:53 +0000 2012",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+            "id_str_h": "Ovpv0JjOWfW348Vv7T2_8Q",
+            "profile_sidebar_border_color": "C0DEED",
+            "default_profile": true,
+            "url_h": "",
+            "following": null,
+            "description_m": "#ArtificialIntelligence #MachineLearning #DeepLearning #IoT #fintech #Bigdata #Technology #Science Liberal #Robotics #DL #tech #Blockchain MBA MS #Computing #AI",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/hNG5Ht6zQ-qfzan5mxx5mQ/duyAz8tPNMctp3dZ10eLZQ"
+        },
+        "geo": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Wednesday",
+            "socialsim_keywords": [
+                "#dlt"
+            ],
+            "created_hod": 16
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Wed Apr 19 16:48:13 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "bNrh_JxjzKzXvGLOsFg0cw",
+        "in_reply_to_screen_name_h": "",
+        "place": null,
+        "extended_entities": {
+            "media": [
+                {
+                    "sizes": {
+                        "small": {
+                            "h": 454,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "h": 667,
+                            "w": 1000,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 667,
+                            "w": 1000,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "id_h": "Ha5Jtc2g7XGSvHb92A-M0Q",
+                    "media_url_https": "https://pbs.twimg.com/media/C9ykCYaXUAA0isL.jpg",
+                    "id_str_h": "Ha5Jtc2g7XGSvHb92A-M0Q",
+                    "display_url_h": "pic.twitter.com/a5Kmwyyh-TJMVADv8JLMvA",
+                    "url_h": "https://t.co/a5Kmwyyh-TJMVADv8JLMvA",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "type": "photo",
+                    "expanded_url_h": "https://twitter.com/WIwUD94SOpGxEcQQLu2HTg/status/bNrh_JxjzKzXvGLOsFg0cw/iqsTDqqHedINEJpgKMZ8SQ",
+                    "media_url": "http://pbs.twimg.com/media/C9ykCYaXUAA0isL.jpg"
+                }
+            ]
+        }
+    },
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [],
+        "urls": [
+            {
+                "indices": [
+                    8,
+                    31
+                ],
+                "expanded_url_h": "https://twitter.com/WIwUD94SOpGxEcQQLu2HTg/status/bNrh_JxjzKzXvGLOsFg0cw",
+                "display_url_h": "twitter.com/WIwUD94SOpGxEcQQLu2HTg/ZKBzH_V4FtYu_QUZAVxwdw",
+                "url_h": "https://t.co/yh_Q0rFxcgNiwUv9niv-rQ"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "quoted_status_id_str_h": "bNrh_JxjzKzXvGLOsFg0cw",
+    "display_text_range": [
+        0,
+        7
+    ],
+    "place": null,
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "WOW O_O  url: https://t.co/yh_Q0rFxcgNiwUv9niv-rQ ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/j2KzbjnHUDZodximNMGLRg/FcIH6zjWB0G6qY5uwEXywA",
+        "screen_name_h": "ZAJuYSf2THmliVa15MpjTQ",
+        "geo_enabled": true,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/G4QvocF_AXLBEy6VtmAyrw/EXET1qn3JaDC5NLtG_4SZQ",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/L0jOwyyOzey4W4JBe9UX1A/lNa-BUbcO9H4VWRqqmTxVg",
+        "id_h": "G4QvocF_AXLBEy6VtmAyrw",
+        "profile_sidebar_fill_color": "000000",
+        "is_translator": false,
+        "profile_text_color": "000000",
+        "followers_count": 1624,
+        "protected": false,
+        "location": "7-8 St Martins's Place WC2N4HA",
+        "default_profile_image": false,
+        "listed_count": 130,
+        "utc_offset": null,
+        "statuses_count": 2567,
+        "profile_background_color": "ABB8C2",
+        "friends_count": 3836,
+        "profile_link_color": "1B95E0",
+        "notifications": null,
+        "name_h": "55_i04LZwq4QZZvMeqfeJA",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 1550,
+        "created_at": "Mon Oct 08 15:27:16 +0000 2012",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/L0jOwyyOzey4W4JBe9UX1A/lNa-BUbcO9H4VWRqqmTxVg",
+        "id_str_h": "G4QvocF_AXLBEy6VtmAyrw",
+        "profile_sidebar_border_color": "000000",
+        "default_profile": false,
+        "url_h": "http://www.jeffersonwolfe.com",
+        "following": null,
+        "description_m": "Leading European #ecommerce, #tech and #gaming #recruitment company working closely with the best #partners and #talents. Get in touch! #careeradvice #jobhunt",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/j2KzbjnHUDZodximNMGLRg/FcIH6zjWB0G6qY5uwEXywA"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "lv",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Wednesday",
+        "socialsim_keywords": [],
+        "created_hod": 19
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Wed Apr 19 19:16:11 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "B_HHwyEKnRH1mtTaFaPOQw",
+    "in_reply_to_screen_name_h": "",
+    "quoted_status_id_h": "bNrh_JxjzKzXvGLOsFg0cw"
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id_h": "HWh7dhbIYXnqcq8lkC0PRA",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492113627125",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    0,
+                    12
+                ],
+                "id_str_h": "q4KA1wPf39SEHIDVGID-FQ",
+                "id_h": "q4KA1wPf39SEHIDVGID-FQ",
+                "screen_name_h": "dcvzvIkEsO-OvLHvJHGNiQ",
+                "name_h": "5mz4rr4ySbUfX0hyRQcFXA"
+            },
+            {
+                "indices": [
+                    21,
+                    34
+                ],
+                "id_str_h": "p1W3ICoETklBuRWgE7K0Dw",
+                "id_h": "p1W3ICoETklBuRWgE7K0Dw",
+                "screen_name_h": "S_lX_tGqciIKk2OB1P113g",
+                "name_h": "qs1493SCVsjcsqkOa5j2Mg"
+            },
+            {
+                "indices": [
+                    42,
+                    48
+                ],
+                "id_str_h": "IVHO6waqnEosnJFygduaSA",
+                "id_h": "IVHO6waqnEosnJFygduaSA",
+                "screen_name_h": "WkhnCy99uXRhYf_X7rCqvw",
+                "name_h": "ZTu12cEqp7iY1hKggoEtFg"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    130,
+                    139
+                ],
+                "text": "payments"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    106,
+                    129
+                ],
+                "expanded_url_h": "https://451research.com/V8BEQIdHZOnteLaLGk1_Fw",
+                "display_url_h": "451research.com/i-33Pcq-0d8GcanfhTCNhQ",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "451 Research is focused on the business of enterprise IT innovation within emerging technology segments and provides timely insight to end user, service provider, vendor, and investor organizations worldwide.",
+                    "url_h": "https://451research.com/V8BEQIdHZOnteLaLGk1_Fw",
+                    "title": "Adyen increases its versatility with expanding omni-channel payment capabilities"
+                },
+                "url_h": "https://t.co/IfYS_2bYfajg7y9QgTej3Q"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "q4KA1wPf39SEHIDVGID-FQ",
+    "in_reply_to_user_id_h": "q4KA1wPf39SEHIDVGID-FQ",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "@un: dcvzvIkEsO-OvLHvJHGNiQ  clients @un: S_lX_tGqciIKk2OB1P113g  report @un: WkhnCy99uXRhYf_X7rCqvw  increases its versatility with expanding omni-channel...  url: https://t.co/IfYS_2bYfajg7y9QgTej3Q  #payments",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/g1fB0kKEUvN-YCtffDkaCA/Y6dJy9-GYeVQAoPvsjfVfg",
+        "screen_name_h": "JoOK19AepgWV5vPWzhhOcQ",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/wPLfqS7laOHl9KZ_5QJEnQ/__fbxOpbzHC_ZlEt_QeVFQ",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/epIzo-qGYhnwLWyqenKBhg",
+        "id_h": "wPLfqS7laOHl9KZ_5QJEnQ",
+        "profile_sidebar_fill_color": "252429",
+        "is_translator": false,
+        "profile_text_color": "666666",
+        "followers_count": 98,
+        "protected": false,
+        "location": "Charlestown, MA",
+        "default_profile_image": false,
+        "listed_count": 44,
+        "utc_offset": null,
+        "statuses_count": 679,
+        "profile_background_color": "1A1B1F",
+        "friends_count": 592,
+        "derived": {
+            "locations": [
+                {
+                    "country": "United States",
+                    "region": "Massachusetts",
+                    "geo": {
+                        "type": "point",
+                        "coordinates": [
+                            -71.10832,
+                            42.36565
+                        ]
+                    },
+                    "country_code": "US",
+                    "full_name": "Massachusetts, United States"
+                }
+            ]
+        },
+        "profile_link_color": "2F55ED",
+        "notifications": null,
+        "name_h": "IKuIAujHOZ9WqeetPUHv7w",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 0,
+        "created_at": "Tue Mar 24 15:25:56 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/epIzo-qGYhnwLWyqenKBhg",
+        "id_str_h": "wPLfqS7laOHl9KZ_5QJEnQ",
+        "profile_sidebar_border_color": "181A1E",
+        "default_profile": false,
+        "url_h": "https://451research.com",
+        "following": null,
+        "description_m": "451 Research -  Focused on the Business of Enterprise IT Innovation within Emerging Technology Segments",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/g1fB0kKEUvN-YCtffDkaCA/Y6dJy9-GYeVQAoPvsjfVfg"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 20
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 20:00:27 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "HWh7dhbIYXnqcq8lkC0PRA",
+    "in_reply_to_screen_name_h": "dcvzvIkEsO-OvLHvJHGNiQ",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "id_h": "0Wf0_2i8bfnvBNBoY3mvDA",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492113634995",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    14
+                ],
+                "id_str_h": "IO-f8H1BJczXQt1FIzA_tQ",
+                "id_h": "IO-f8H1BJczXQt1FIzA_tQ",
+                "screen_name_h": "wCcnaiH9m4Hgl2EyLAxCXQ",
+                "name_h": "5_v0Mnm903b7YZOoFb0y5Q"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [],
+        "urls": []
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: wCcnaiH9m4Hgl2EyLAxCXQ : Collecting packet data from all channels on one appliance lets us offer roaming analysis in Omnipliance WiFi using our Omni\u00e2\u0080\u00a6",
+    "retweeted_status": {
+        "quote_count": 0,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 0,
+        "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "id_h": "t3YbgFjNzocBgkeeW3khyA",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [],
+            "urls": []
+        },
+        "in_reply_to_user_id_str_h": "",
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 1,
+        "favorited": false,
+        "text_m": "Collecting packet data from all channels on one appliance lets us offer roaming analysis in Omnipliance WiFi using our Omnipeek software.",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/6hUFoQajJxbs6vmzmF_4dg/wmgpHnBGsshYH3eCMbpQMQ",
+            "screen_name_h": "wCcnaiH9m4Hgl2EyLAxCXQ",
+            "geo_enabled": true,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/IO-f8H1BJczXQt1FIzA_tQ/waPUX1S8VZYa2jz5EAO3Qw",
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/uD8oPFZAeB4Vzpf3Toezsg/czKUHzMm0PAdF1SjpsY7OA",
+            "id_h": "IO-f8H1BJczXQt1FIzA_tQ",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "is_translator": false,
+            "profile_text_color": "004961",
+            "followers_count": 2059,
+            "protected": false,
+            "location": "Silicon Valley",
+            "default_profile_image": false,
+            "listed_count": 163,
+            "utc_offset": null,
+            "statuses_count": 3275,
+            "profile_background_color": "FFFFFF",
+            "friends_count": 1632,
+            "profile_link_color": "CE1126",
+            "notifications": null,
+            "name_h": "5_v0Mnm903b7YZOoFb0y5Q",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 232,
+            "created_at": "Wed Aug 27 18:30:21 +0000 2008",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/uD8oPFZAeB4Vzpf3Toezsg/czKUHzMm0PAdF1SjpsY7OA",
+            "id_str_h": "IO-f8H1BJczXQt1FIzA_tQ",
+            "profile_sidebar_border_color": "4E92A6",
+            "default_profile": false,
+            "url_h": "http://www.savvius.com",
+            "following": null,
+            "description_m": "Packet Intelligence for Performance and Security - Savvius Vigil\u00e2\u0084\u00a2 Voted Best Security Hardware 2016 | Network Products Guide IT World Awards",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/6hUFoQajJxbs6vmzmF_4dg/wmgpHnBGsshYH3eCMbpQMQ"
+        },
+        "geo": null,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Thursday",
+            "socialsim_keywords": [],
+            "created_hod": 15
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Thu Apr 13 15:55:18 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "t3YbgFjNzocBgkeeW3khyA",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/1V9KY5iQHjvv-wgpl49qTg/lcKnv9pWJkMYSlAOgKPRtQ",
+        "screen_name_h": "fea7Ua5fpjAkOZqDrI0kaQ",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/FulMsCaamosiAYela5pgrg/_tBxzhg7nT-Oi0mOpdi1fw",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_h": "FulMsCaamosiAYela5pgrg",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 48,
+        "protected": false,
+        "location": "South Africa and Middle East ",
+        "default_profile_image": false,
+        "listed_count": 18,
+        "utc_offset": null,
+        "statuses_count": 405,
+        "profile_background_color": "C0DEED",
+        "friends_count": 98,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "1iBkdgAXivIUtPMl1cnyKw",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 274,
+        "created_at": "Fri Jun 20 15:25:45 +0000 2014",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_str_h": "FulMsCaamosiAYela5pgrg",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "http://WWW.Netspeed.co.za",
+        "following": null,
+        "description_m": "",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/1V9KY5iQHjvv-wgpl49qTg/lcKnv9pWJkMYSlAOgKPRtQ"
+    },
+    "geo": null,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 20
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 20:00:34 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "0Wf0_2i8bfnvBNBoY3mvDA",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "id_h": "HxxzhrOE6-uRjSvgW5UARw",
+    "retweeted": false,
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -118.25038,
+            34.0526399
+        ]
+    },
+    "timestamp_ms": "1492113666497",
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    25
+                ],
+                "text": "ipa"
+            },
+            {
+                "indices": [
+                    26,
+                    38
+                ],
+                "text": "pointtheway"
+            },
+            {
+                "indices": [
+                    39,
+                    44
+                ],
+                "text": "beer"
+            },
+            {
+                "indices": [
+                    45,
+                    65
+                ],
+                "text": "icouldgetusedtothis"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    91,
+                    114
+                ],
+                "expanded_url_h": "https://www.instagram.com/g4eMkRcTOJAuD-D7l6jEeg/NIetRoGhlNirm6TCVBSmzQ/",
+                "display_url_h": "instagram.com/g4eMkRcTOJAuD-D7l6jEeg/NIetRoGhlNirm6TCVBSmzQ/",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "0 Likes, 1 Comments - Matthew Heap (@un: THeT8Gv9SFd55NteqDCo8Q ) on Instagram: \u00e2\u0080\u009cMore beer in the sun #ipa #pointtheway #beer #icouldgetusedtothis\u00e2\u0080\u009d",
+                    "url_h": "https://www.instagram.com/g4eMkRcTOJAuD-D7l6jEeg/NIetRoGhlNirm6TCVBSmzQ/",
+                    "title": "Instagram post by Matthew Heap \u00e2\u0080\u00a2 Apr 13, 2017 at 8:01pm UTC"
+                },
+                "url_h": "https://t.co/39264N7VwTs-vKXP-jtyGw"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "More beer in the sun #ipa #pointtheway #beer #icouldgetusedtothis @ Omni Hotel Los Angeles  url: https://t.co/39264N7VwTs-vKXP-jtyGw ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/M_W36n2adpgx41xIHf9ySQ/Dbqw3HdeUbT1FgiD9MIBEQ",
+        "screen_name_h": "THeT8Gv9SFd55NteqDCo8Q",
+        "geo_enabled": true,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/dsTvR_fW0EmP8HDQPJhiFQ/-R5DqwzMtmiy4Nt9PgXLTw",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/kBH3nOeTaknTyWa6gNm3Tw/yJ_PRYFDXtw7ymy4k44AGQ",
+        "id_h": "dsTvR_fW0EmP8HDQPJhiFQ",
+        "profile_sidebar_fill_color": "252429",
+        "is_translator": false,
+        "profile_text_color": "666666",
+        "followers_count": 95,
+        "protected": false,
+        "location": "Merseyside",
+        "default_profile_image": false,
+        "listed_count": 10,
+        "utc_offset": null,
+        "statuses_count": 374,
+        "profile_background_color": "1A1B1F",
+        "friends_count": 555,
+        "profile_link_color": "2FC2EF",
+        "notifications": null,
+        "name_h": "zCAnZbvl5V-Ge0WMkDjLyg",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 62,
+        "created_at": "Sat Jun 12 16:36:21 +0000 2010",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/kBH3nOeTaknTyWa6gNm3Tw/yJ_PRYFDXtw7ymy4k44AGQ",
+        "id_str_h": "dsTvR_fW0EmP8HDQPJhiFQ",
+        "profile_sidebar_border_color": "181A1E",
+        "default_profile": false,
+        "url_h": "http://thinwrists.co.uk",
+        "following": null,
+        "description_m": "",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/M_W36n2adpgx41xIHf9ySQ/Dbqw3HdeUbT1FgiD9MIBEQ"
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            34.0526399,
+            -118.25038
+        ]
+    },
+    "possibly_sensitive": false,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 20
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 20:01:06 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "HxxzhrOE6-uRjSvgW5UARw",
+    "in_reply_to_screen_name_h": "",
+    "place": {
+        "country_code": "US",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+        "country": "United States",
+        "place_type": "city",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ]
+                ]
+            ]
+        },
+        "full_name": "Los Angeles, CA",
+        "attributes": {},
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles"
+    }
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "id_h": "so5XPHwY4bnqJeypJTC2VA",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492113936210",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    12
+                ],
+                "id_str_h": "yu2em2ry24StA2gJ33bDhQ",
+                "id_h": "yu2em2ry24StA2gJ33bDhQ",
+                "screen_name_h": "qrRa8XjDHQtLfHeQL2rK9g",
+                "name_h": "5zIMzt3M-Pb2lv2F63buug"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [],
+        "urls": []
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: qrRa8XjDHQtLfHeQL2rK9g : The Nike AF1 \"Jewel\" is back after a long rest. Shop all 3 colorways now in-store at both UBIQ locations. Coming so\u00e2\u0080\u00a6 ",
+    "retweeted_status": {
+        "quote_count": 0,
+        "contributors": null,
+        "truncated": true,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 1,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "id_h": "7441ZT5lGv2kUSrlZ1ecTw",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [],
+            "urls": [
+                {
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "expanded_url_h": "https://twitter.com/hlwMC0qw4GPlyqM4fBqHQQ/web/mstEVJtBVjaXu0kBROxiWA/7441ZT5lGv2kUSrlZ1ecTw",
+                    "display_url_h": "twitter.com/hlwMC0qw4GPlyqM4fBqHQQ/web/mstEVJtBVjaXu0kBROxiWA/woanxe1OVnBPFCN2_Bcuaw",
+                    "url_h": "https://t.co/7O5IypBRmbRdXJJsf6Z6XA"
+                }
+            ]
+        },
+        "in_reply_to_user_id_str_h": "",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 3,
+        "favorited": false,
+        "text_m": "The Nike AF1 \"Jewel\" is back after a long rest. Shop all 3 colorways now in-store at both UBIQ locations. Coming soon to online.  url: https://t.co/LSFT3HJrjnLApTLrS2SgBQ ",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/cz9gJNPeI-sip7pXJaeYog/KXYgScd0FTw6XF7zrF9YiQ",
+            "screen_name_h": "qrRa8XjDHQtLfHeQL2rK9g",
+            "geo_enabled": true,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/yu2em2ry24StA2gJ33bDhQ/XE_Huc8aJq3gsJW7hxj1kA",
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/RBsraXY2ks7dXi5jTZ5P6g/zKKwpIA7smeLsgObxfCt_g",
+            "id_h": "yu2em2ry24StA2gJ33bDhQ",
+            "profile_sidebar_fill_color": "C4B4A8",
+            "is_translator": false,
+            "profile_text_color": "464F59",
+            "followers_count": 40141,
+            "protected": false,
+            "location": "Philadelphia & The World Over",
+            "default_profile_image": false,
+            "listed_count": 359,
+            "utc_offset": null,
+            "statuses_count": 13157,
+            "profile_background_color": "9AE4E8",
+            "friends_count": 29,
+            "profile_link_color": "000000",
+            "notifications": null,
+            "name_h": "5zIMzt3M-Pb2lv2F63buug",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 1819,
+            "created_at": "Tue Jan 13 19:42:20 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/RBsraXY2ks7dXi5jTZ5P6g/zKKwpIA7smeLsgObxfCt_g",
+            "id_str_h": "yu2em2ry24StA2gJ33bDhQ",
+            "profile_sidebar_border_color": "695A41",
+            "default_profile": false,
+            "url_h": "http://www.ubiqlife.com",
+            "following": null,
+            "description_m": "1509 Walnut Street\\r\\nPhiladelphia PA 19102\\r\\n215.988.0194",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/cz9gJNPeI-sip7pXJaeYog/KXYgScd0FTw6XF7zrF9YiQ"
+        },
+        "geo": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Thursday",
+            "socialsim_keywords": [
+                "ubiq"
+            ],
+            "created_hod": 20
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Thu Apr 13 20:02:49 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "7441ZT5lGv2kUSrlZ1ecTw",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/0c80gfPi0rxaKEqV9xqukw/RR2K6P8r7VKpuXL8ylGLxA",
+        "screen_name_h": "wRF5wpFBRRDriOkKScVNXg",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/fpDXfppWzh3KIrdhKbCu3w/AOm8pLlALDjY2tDvvvdg-Q",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/SD13gHOF_SqeettPbo7-cg/mTKdJ_vxA0G9bGlOUk8HsQ",
+        "id_h": "fpDXfppWzh3KIrdhKbCu3w",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 45260,
+        "protected": false,
+        "location": "IG: @bigghostltd",
+        "default_profile_image": false,
+        "listed_count": 683,
+        "utc_offset": null,
+        "statuses_count": 89949,
+        "profile_background_color": "C0DEED",
+        "friends_count": 2890,
+        "profile_link_color": "0084B4",
+        "notifications": null,
+        "name_h": "UplpaSeJxsDgRUYCKezcVw",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5367,
+        "created_at": "Sat Mar 05 03:52:58 +0000 2011",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/SD13gHOF_SqeettPbo7-cg/mTKdJ_vxA0G9bGlOUk8HsQ",
+        "id_str_h": "fpDXfppWzh3KIrdhKbCu3w",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": false,
+        "url_h": "https://m.soundcloud.com/7gwoN3XOcp4aQ_IzA1w2sg/F41RAm29bYuzK3dJq4iJMA/yKth_GUzdK1SmhjJGEYxOg",
+        "following": null,
+        "description_m": "You in the presence of the mighty Hands of Zeus aka Phantom Raviolis aka \u00e2\u009a\u00a1\u00ef\u00b8\u008fhampoo Bracelet\u00e2\u009a\u00a1\u00ef\u00b8\u008f aka Thor Molecules aka Cocaine Biceps aka dont send me ya mixtapes.",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/0c80gfPi0rxaKEqV9xqukw/RR2K6P8r7VKpuXL8ylGLxA"
+    },
+    "geo": null,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "ubiq"
+        ],
+        "created_hod": 20
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 20:05:36 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "so5XPHwY4bnqJeypJTC2VA",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "id_h": "YZhRkSTwNl0idWeUxEBD_A",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492114080440",
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [],
+        "urls": [
+            {
+                "indices": [
+                    69,
+                    92
+                ],
+                "expanded_url_h": "http://bizj.us/ltpWLa-j04XbpOieR79N6Q",
+                "display_url_h": "bizj.us/ltpWLa-j04XbpOieR79N6Q",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "The 800,000-square-foot hotel will span two 21-story towers, which will reach 242 feet and 237 feet, respectively.",
+                    "url_h": "http://www.bizjournals.com/auzf6LAE0ejLHkLEQUaHqQ/UIx1yFB6KuUiPf0vrrmBIg/n6yYt807VGSwq1-g2zkTWw",
+                    "title": "Massport picks Omni Resorts and Hotels to build Boston\u00e2\u0080\u0099s fourth-largest hotel - Boston Business Journal"
+                },
+                "url_h": "https://t.co/FdTp0BEXD-DEINTGL-J_3A"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "BREAKING: Massport picks Omni to build Boston\u00e2\u0080\u0099s fourth-largest hotel  url: https://t.co/FdTp0BEXD-DEINTGL-J_3A ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": false,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/guuCLXm_tMMSFWAnqNchXA/RppecYUsLcZf006rkucXMg",
+        "screen_name_h": "QhTJIIEn5qHqjCW9d1GLtQ",
+        "geo_enabled": true,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/WwrCwgmSQ9yP92nb4D6TVg/1AoTn0-42Nbu8uG04odX1A",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/_cPQP8uuVXRsyoGbc8OCYw/eVbNnl1ZtH3sU11nFZqdsQ",
+        "id_h": "WwrCwgmSQ9yP92nb4D6TVg",
+        "profile_sidebar_fill_color": "DAE5F0",
+        "is_translator": false,
+        "profile_text_color": "701A1A",
+        "followers_count": 54948,
+        "protected": false,
+        "location": "Boston, MA",
+        "default_profile_image": false,
+        "listed_count": 1230,
+        "utc_offset": null,
+        "statuses_count": 27997,
+        "profile_background_color": "030303",
+        "friends_count": 29584,
+        "derived": {
+            "locations": [
+                {
+                    "country_code": "US",
+                    "locality": "Boston",
+                    "country": "United States",
+                    "region": "Massachusetts",
+                    "sub_region": "Suffolk County",
+                    "full_name": "Boston, Massachusetts, United States",
+                    "geo": {
+                        "type": "point",
+                        "coordinates": [
+                            -71.05977,
+                            42.35843
+                        ]
+                    }
+                }
+            ]
+        },
+        "profile_link_color": "0084B4",
+        "notifications": null,
+        "name_h": "o5Fnstz3hvz-05I2buhC0A",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 1045,
+        "created_at": "Fri Oct 10 16:06:37 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/_cPQP8uuVXRsyoGbc8OCYw/eVbNnl1ZtH3sU11nFZqdsQ",
+        "id_str_h": "WwrCwgmSQ9yP92nb4D6TVg",
+        "profile_sidebar_border_color": "000000",
+        "default_profile": false,
+        "url_h": "http://boston.bizjournals.com/auzf6LAE0ejLHkLEQUaHqQ",
+        "following": null,
+        "description_m": "Breaking news and other stories from the Boston Business Journal.  Follow @un: wJp1XmtJmV913ZNa44Ut7A  for updates from the BBJ's events and marketing team.",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/guuCLXm_tMMSFWAnqNchXA/RppecYUsLcZf006rkucXMg"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 20
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 20:08:00 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "YZhRkSTwNl0idWeUxEBD_A",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id_h": "e05fQY0AcjayvQKDBvKm-g",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1491210689873",
+    "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    108
+                ],
+                "text": "thisnewsid"
+            },
+            {
+                "indices": [
+                    109,
+                    113
+                ],
+                "text": "ind"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    73,
+                    96
+                ],
+                "expanded_url_h": "http://goo.gl/8E88mctujbZ2GJ6QaN6pqQ",
+                "display_url_h": "goo.gl/8E88mctujbZ2GJ6QaN6pqQ",
+                "unwound": {
+                    "status": null,
+                    "description_m": "",
+                    "url_h": "http://thisnews.id",
+                    "title": "Domain Expired"
+                },
+                "url_h": "https://t.co/K9aQasiNc1q439Wf2JmP-Q"
+            },
+            {
+                "indices": [
+                    115,
+                    138
+                ],
+                "expanded_url_h": "http://ift.tt/dBQl5syhw6xN3t3CxnZVWw",
+                "display_url_h": "ift.tt/dBQl5syhw6xN3t3CxnZVWw",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "Ketua Badan Anggaran DPR juga disebut terima jatah pembagian uang dari korupsi dana EKTP yang besarannya mencapai 7 persen",
+                    "url_h": "http://news.okezone.com/7K4TEX1vBYTCWp2myPhBXg/jYgYyOFAxkx0MRP1Y891Dw/GBzaLxuLX81yQMo1nUtapg",
+                    "title": "Pimpinan Banggar Disebut Kecipratan Empat Persen Uang Panas Proyek E-KTP : Okezone News"
+                },
+                "url_h": "https://t.co/GCFyEvyFD9GWTItUSbuc8w"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "Pimpinan Banggar Disebut Kecipratan Empat Persen Uang Panas Proyek E-KTP  url: https://t.co/K9aQasiNc1q439Wf2JmP-Q  #thisnewsid #ind\u00e2\u0080\u00a6  url: https://t.co/GCFyEvyFD9GWTItUSbuc8w ",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8oCyv0WdfN69CjO74ySphQ/QAC5QW9gDjvihfD6w1JV9A",
+        "screen_name_h": "rSoTtfuVFv2uDiIPclluGw",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/5zLVNFeN27K4hVCH5l0exQ/Y0q5luWYq4DJKdHrIx3GdQ",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "",
+        "id_h": "5zLVNFeN27K4hVCH5l0exQ",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 26,
+        "protected": false,
+        "location": null,
+        "default_profile_image": false,
+        "listed_count": 3,
+        "utc_offset": null,
+        "statuses_count": 431914,
+        "profile_background_color": "F5F8FA",
+        "friends_count": 39,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "H771UeycxcxxzmWrJ65fiQ",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 0,
+        "created_at": "Sun Mar 13 01:55:09 +0000 2016",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "",
+        "id_str_h": "5zLVNFeN27K4hVCH5l0exQ",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "http://www.thisnews.id",
+        "following": null,
+        "description_m": "thisnews.id menyediakan konten berita , hiburan, lifestyle di indonesia.",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8oCyv0WdfN69CjO74ySphQ/QAC5QW9gDjvihfD6w1JV9A"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "in",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Monday",
+        "socialsim_keywords": [
+            "#ind"
+        ],
+        "created_hod": 9
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Mon Apr 03 09:11:29 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "e05fQY0AcjayvQKDBvKm-g",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "id_h": "2RN0DndpF2ufxybd9SLRiw",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1491210935607",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    14
+                ],
+                "id_str_h": "zJ4nne4nATIsY34XJI73wQ",
+                "id_h": "zJ4nne4nATIsY34XJI73wQ",
+                "screen_name_h": "f37N0Qd3oH1DG1W7nWORTQ",
+                "name_h": "nONekuhOw-ecmKIg9zHKow"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [],
+        "urls": [],
+        "media": [
+            {
+                "source_user_id_str_h": "zJ4nne4nATIsY34XJI73wQ",
+                "sizes": {
+                    "large": {
+                        "h": 478,
+                        "w": 479,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "h": 478,
+                        "w": 479,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "h": 478,
+                        "w": 479,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "w": 150,
+                        "resize": "crop"
+                    }
+                },
+                "id_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                "media_url_https": "https://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg",
+                "source_user_id_h": "zJ4nne4nATIsY34XJI73wQ",
+                "id_str_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                "source_status_id_str_h": "35Z2uesEIahx3ImvfcwzAw",
+                "display_url_h": "pic.twitter.com/g5kKoRaIG-eN3bW3qc6MOQ",
+                "url_h": "https://t.co/g5kKoRaIG-eN3bW3qc6MOQ",
+                "indices": [
+                    110,
+                    133
+                ],
+                "source_status_id_h": "35Z2uesEIahx3ImvfcwzAw",
+                "type": "photo",
+                "expanded_url_h": "https://twitter.com/f37N0Qd3oH1DG1W7nWORTQ/status/35Z2uesEIahx3ImvfcwzAw/iqsTDqqHedINEJpgKMZ8SQ",
+                "media_url": "http://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: f37N0Qd3oH1DG1W7nWORTQ : Yongkiss sna nga makapag indorse kayo ng close up kc habit nyong ngumiti.\\n\\nYONG MONmentForMMK  url: https://t.co/g5kKoRaIG-eN3bW3qc6MOQ ",
+    "retweeted_status": {
+        "quote_count": 0,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 1,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "id_h": "35Z2uesEIahx3ImvfcwzAw",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [],
+            "symbols": [],
+            "hashtags": [],
+            "urls": [],
+            "media": [
+                {
+                    "sizes": {
+                        "large": {
+                            "h": 478,
+                            "w": 479,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 478,
+                            "w": 479,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 478,
+                            "w": 479,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "id_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                    "media_url_https": "https://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg",
+                    "id_str_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                    "display_url_h": "pic.twitter.com/g5kKoRaIG-eN3bW3qc6MOQ",
+                    "url_h": "https://t.co/g5kKoRaIG-eN3bW3qc6MOQ",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "type": "photo",
+                    "expanded_url_h": "https://twitter.com/f37N0Qd3oH1DG1W7nWORTQ/status/35Z2uesEIahx3ImvfcwzAw/iqsTDqqHedINEJpgKMZ8SQ",
+                    "media_url": "http://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg"
+                }
+            ]
+        },
+        "in_reply_to_user_id_str_h": "",
+        "display_text_range": [
+            0,
+            93
+        ],
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 1,
+        "favorited": false,
+        "text_m": "Yongkiss sna nga makapag indorse kayo ng close up kc habit nyong ngumiti.\\n\\nYONG MONmentForMMK  url: https://t.co/g5kKoRaIG-eN3bW3qc6MOQ ",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/ySLe19BODfXJE60D80toaQ/v_6dYygieMLmEd2ddOxYnQ",
+            "screen_name_h": "f37N0Qd3oH1DG1W7nWORTQ",
+            "geo_enabled": true,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/zJ4nne4nATIsY34XJI73wQ/YdJEkCwzoEhSlwGGR1nzAw",
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "",
+            "id_h": "zJ4nne4nATIsY34XJI73wQ",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "is_translator": false,
+            "profile_text_color": "333333",
+            "followers_count": 924,
+            "protected": false,
+            "location": "Jolo,Sulu philippines",
+            "default_profile_image": false,
+            "listed_count": 0,
+            "utc_offset": null,
+            "statuses_count": 3365,
+            "profile_background_color": "F5F8FA",
+            "friends_count": 763,
+            "profile_link_color": "1DA1F2",
+            "notifications": null,
+            "name_h": "nONekuhOw-ecmKIg9zHKow",
+            "lang": "en",
+            "profile_background_tile": false,
+            "favourites_count": 419,
+            "created_at": "Thu Aug 18 13:09:47 +0000 2016",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "",
+            "id_str_h": "zJ4nne4nATIsY34XJI73wQ",
+            "profile_sidebar_border_color": "C0DEED",
+            "default_profile": true,
+            "url_h": "",
+            "following": null,
+            "description_m": "Life is pricious to waste it!",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/ySLe19BODfXJE60D80toaQ/v_6dYygieMLmEd2ddOxYnQ"
+        },
+        "geo": null,
+        "possibly_sensitive": false,
+        "lang": "tl",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Monday",
+            "socialsim_keywords": [
+                "indorse"
+            ],
+            "created_hod": 9
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Mon Apr 03 09:14:04 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "35Z2uesEIahx3ImvfcwzAw",
+        "in_reply_to_screen_name_h": "",
+        "place": null,
+        "extended_entities": {
+            "media": [
+                {
+                    "sizes": {
+                        "large": {
+                            "h": 478,
+                            "w": 479,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 478,
+                            "w": 479,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 478,
+                            "w": 479,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "id_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                    "media_url_https": "https://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg",
+                    "id_str_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                    "display_url_h": "pic.twitter.com/g5kKoRaIG-eN3bW3qc6MOQ",
+                    "url_h": "https://t.co/g5kKoRaIG-eN3bW3qc6MOQ",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "type": "photo",
+                    "expanded_url_h": "https://twitter.com/f37N0Qd3oH1DG1W7nWORTQ/status/35Z2uesEIahx3ImvfcwzAw/iqsTDqqHedINEJpgKMZ8SQ",
+                    "media_url": "http://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg"
+                }
+            ]
+        }
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/KtvB4OdfuRuA1ZR-fDOtaQ/P83f3253-ifLlv-CofLY_g",
+        "screen_name_h": "eeUiBeZuIqPlgV6uQxoO1Q",
+        "geo_enabled": false,
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "",
+        "id_h": "hRHxhdBlY0BEMhk_3hpkDA",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 177,
+        "protected": false,
+        "location": null,
+        "default_profile_image": false,
+        "listed_count": 0,
+        "utc_offset": null,
+        "statuses_count": 24674,
+        "profile_background_color": "F5F8FA",
+        "friends_count": 204,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "SQ5N8Dzkn-nvL8x0XLXYbQ",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 3156,
+        "created_at": "Wed Dec 14 19:21:51 +0000 2016",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "",
+        "id_str_h": "hRHxhdBlY0BEMhk_3hpkDA",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "",
+        "following": null,
+        "description_m": "",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/KtvB4OdfuRuA1ZR-fDOtaQ/P83f3253-ifLlv-CofLY_g"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "tl",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Monday",
+        "socialsim_keywords": [
+            "indorse"
+        ],
+        "created_hod": 9
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Mon Apr 03 09:15:35 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "2RN0DndpF2ufxybd9SLRiw",
+    "in_reply_to_screen_name_h": "",
+    "place": null,
+    "extended_entities": {
+        "media": [
+            {
+                "source_user_id_str_h": "zJ4nne4nATIsY34XJI73wQ",
+                "sizes": {
+                    "large": {
+                        "h": 478,
+                        "w": 479,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "h": 478,
+                        "w": 479,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "h": 478,
+                        "w": 479,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "w": 150,
+                        "resize": "crop"
+                    }
+                },
+                "id_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                "media_url_https": "https://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg",
+                "source_user_id_h": "zJ4nne4nATIsY34XJI73wQ",
+                "id_str_h": "ZYA7dBjqYaVf5JxZ-Ho2Vw",
+                "source_status_id_str_h": "35Z2uesEIahx3ImvfcwzAw",
+                "display_url_h": "pic.twitter.com/g5kKoRaIG-eN3bW3qc6MOQ",
+                "url_h": "https://t.co/g5kKoRaIG-eN3bW3qc6MOQ",
+                "indices": [
+                    110,
+                    133
+                ],
+                "source_status_id_h": "35Z2uesEIahx3ImvfcwzAw",
+                "type": "photo",
+                "expanded_url_h": "https://twitter.com/f37N0Qd3oH1DG1W7nWORTQ/status/35Z2uesEIahx3ImvfcwzAw/iqsTDqqHedINEJpgKMZ8SQ",
+                "media_url": "http://pbs.twimg.com/media/C8eirNkXsAAK5cR.jpg"
+            }
+        ]
+    }
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "id_h": "saZcFbMDqlOrmKZq2_hblw",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1491211046868",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    14
+                ],
+                "id_str_h": "zQ56ulLX63TzswPZbJyfZQ",
+                "id_h": "zQ56ulLX63TzswPZbJyfZQ",
+                "screen_name_h": "uRUjXjvEXMBkKJ5oda43Rg",
+                "name_h": "VRWY050nm8UcKGYKK8lReQ"
+            },
+            {
+                "indices": [
+                    57,
+                    67
+                ],
+                "id_str_h": "LzoLryRWH1U7OPkJrMpXMQ",
+                "id_h": "LzoLryRWH1U7OPkJrMpXMQ",
+                "screen_name_h": "ypvCoFLRtpCWI1S1vc0vMQ",
+                "name_h": "mhu8_umP2hJ01_DrepER8w"
+            },
+            {
+                "indices": [
+                    71,
+                    84
+                ],
+                "id_str_h": "UERcNSHvvkQJzSBiTXziPQ",
+                "id_h": "UERcNSHvvkQJzSBiTXziPQ",
+                "screen_name_h": "qJIqNmnHKSorkSP6yPKUUw",
+                "name_h": "PqvdOy6lkt-NnMmI4HAlDQ"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    112
+                ],
+                "text": "BNT"
+            }
+        ],
+        "urls": [
+            {
+                "indices": [
+                    113,
+                    136
+                ],
+                "expanded_url_h": "http://pitchfork.com/dNyxzsUIVNL4gCefPdGdqQ/8ekErJN0TMHOJE38GR_CoQ/y5-QjQQDo6MK3LFlFoXr6g",
+                "display_url_h": "pitchfork.com/dNyxzsUIVNL4gCefPdGdqQ/XoT7GJir0MfWBXXgmirJbw",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "Taken from their upcoming self-titled reunion album\u00c2\u00a0",
+                    "url_h": "http://pitchfork.com/dNyxzsUIVNL4gCefPdGdqQ/8ekErJN0TMHOJE38GR_CoQ/y5-QjQQDo6MK3LFlFoXr6g",
+                    "title": "Listen to \u00e2\u0080\u009cSugar for the Pill\u00e2\u0080\u009d by Slowdive"
+                },
+                "url_h": "https://t.co/iE0Xm_yMGSFKMxSAnFTHKw"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: uRUjXjvEXMBkKJ5oda43Rg : \"Every great band should age so well.\" - @un: ypvCoFLRtpCWI1S1vc0vMQ  on @un: qJIqNmnHKSorkSP6yPKUUw 's \"Sugar for the Pill\" #BNT  url: https://t.co/iE0Xm_yMGSFKMxSAnFTHKw ",
+    "retweeted_status": {
+        "quote_count": 0,
+        "contributors": null,
+        "truncated": false,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 4,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "id_h": "bB9LWDUTYsKbuvmTLQrK2g",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [
+                {
+                    "indices": [
+                        41,
+                        51
+                    ],
+                    "id_str_h": "LzoLryRWH1U7OPkJrMpXMQ",
+                    "id_h": "LzoLryRWH1U7OPkJrMpXMQ",
+                    "screen_name_h": "ypvCoFLRtpCWI1S1vc0vMQ",
+                    "name_h": "mhu8_umP2hJ01_DrepER8w"
+                },
+                {
+                    "indices": [
+                        55,
+                        68
+                    ],
+                    "id_str_h": "UERcNSHvvkQJzSBiTXziPQ",
+                    "id_h": "UERcNSHvvkQJzSBiTXziPQ",
+                    "screen_name_h": "qJIqNmnHKSorkSP6yPKUUw",
+                    "name_h": "PqvdOy6lkt-NnMmI4HAlDQ"
+                }
+            ],
+            "symbols": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        92,
+                        96
+                    ],
+                    "text": "BNT"
+                }
+            ],
+            "urls": [
+                {
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "expanded_url_h": "http://pitchfork.com/dNyxzsUIVNL4gCefPdGdqQ/8ekErJN0TMHOJE38GR_CoQ/y5-QjQQDo6MK3LFlFoXr6g",
+                    "display_url_h": "pitchfork.com/dNyxzsUIVNL4gCefPdGdqQ/XoT7GJir0MfWBXXgmirJbw",
+                    "unwound": {
+                        "status": 200,
+                        "description_m": "Taken from their upcoming self-titled reunion album\u00c2\u00a0",
+                        "url_h": "http://pitchfork.com/dNyxzsUIVNL4gCefPdGdqQ/8ekErJN0TMHOJE38GR_CoQ/y5-QjQQDo6MK3LFlFoXr6g",
+                        "title": "Listen to \u00e2\u0080\u009cSugar for the Pill\u00e2\u0080\u009d by Slowdive"
+                    },
+                    "url_h": "https://t.co/iE0Xm_yMGSFKMxSAnFTHKw"
+                }
+            ]
+        },
+        "in_reply_to_user_id_str_h": "",
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 4,
+        "favorited": false,
+        "text_m": "\"Every great band should age so well.\" - @un: ypvCoFLRtpCWI1S1vc0vMQ  on @un: qJIqNmnHKSorkSP6yPKUUw 's \"Sugar for the Pill\" #BNT  url: https://t.co/iE0Xm_yMGSFKMxSAnFTHKw ",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8Eq-VGF3RB1Ep1Zv-O_deQ/YreaTyNUWYMtDiDCfHMWDg",
+            "screen_name_h": "uRUjXjvEXMBkKJ5oda43Rg",
+            "geo_enabled": true,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/zQ56ulLX63TzswPZbJyfZQ/5KOT_TjHmTzs1ZJseiYnVA",
+            "verified": true,
+            "translator_type": "regular",
+            "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/6BSNMLY-5POgt_rq-PdZmQ/L1734u_5ogd6ZNh8mRhTNw",
+            "id_h": "zQ56ulLX63TzswPZbJyfZQ",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "is_translator": false,
+            "profile_text_color": "1B831D",
+            "followers_count": 25921,
+            "protected": false,
+            "location": "Bloomington, IN and Austin, TX",
+            "default_profile_image": false,
+            "listed_count": 614,
+            "utc_offset": null,
+            "statuses_count": 8679,
+            "profile_background_color": "C0DEED",
+            "friends_count": 994,
+            "profile_link_color": "ABB8C2",
+            "notifications": null,
+            "name_h": "VRWY050nm8UcKGYKK8lReQ",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 4017,
+            "created_at": "Thu Feb 26 22:25:02 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/6BSNMLY-5POgt_rq-PdZmQ/L1734u_5ogd6ZNh8mRhTNw",
+            "id_str_h": "zQ56ulLX63TzswPZbJyfZQ",
+            "profile_sidebar_border_color": "FFFFFF",
+            "default_profile": false,
+            "url_h": "http://deadoceans.com",
+            "following": null,
+            "description_m": "We are a record label // Bold & timeless recordings since 2007.",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/8Eq-VGF3RB1Ep1Zv-O_deQ/YreaTyNUWYMtDiDCfHMWDg"
+        },
+        "geo": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Sunday",
+            "socialsim_keywords": [
+                "#bnt"
+            ],
+            "created_hod": 21
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Sun Apr 02 21:22:01 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "bB9LWDUTYsKbuvmTLQrK2g",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/Xl5lkp7XrTOC9OJg0MrcYg/Gri8Lrup_oC8z66Z7gS6CA",
+        "screen_name_h": "5ZCofldZ9R2ZDuu8XE3Q9Q",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/dmwSJcWNSpPI5ocpwhOTGw/UZ_Ab8FFvEZr2-vmMlSO9Q",
+        "verified": true,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/KerPlkvIuX2O8Ssw-PVSqQ/RGeZc2CeCTfbbEpJVAWOfg",
+        "id_h": "dmwSJcWNSpPI5ocpwhOTGw",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 4833,
+        "protected": false,
+        "location": "The Fens, England, UK",
+        "default_profile_image": false,
+        "listed_count": 80,
+        "utc_offset": null,
+        "statuses_count": 2427,
+        "profile_background_color": "111212",
+        "friends_count": 1143,
+        "profile_link_color": "91D2FA",
+        "notifications": null,
+        "name_h": "iWUVfzqPOrbLF0ePhYTnHQ",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 2797,
+        "created_at": "Mon Jul 02 13:07:10 +0000 2012",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/KerPlkvIuX2O8Ssw-PVSqQ/RGeZc2CeCTfbbEpJVAWOfg",
+        "id_str_h": "dmwSJcWNSpPI5ocpwhOTGw",
+        "profile_sidebar_border_color": "FFFFFF",
+        "default_profile": false,
+        "url_h": "http://www.simonscott.org",
+        "following": null,
+        "description_m": "Slowdive drums & electronics: @un: qJIqNmnHKSorkSP6yPKUUw  Sound ecology & multi-instrumentalist on @un: q34cVs7jHwkCaDTQHlKvzw  Email- email: JJmN4_BBVgVwwrHVsej6Xg  + @un: pickG5CNTFQbMsGeTxbwtg ",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/Xl5lkp7XrTOC9OJg0MrcYg/Gri8Lrup_oC8z66Z7gS6CA"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Monday",
+        "socialsim_keywords": [
+            "#bnt"
+        ],
+        "created_hod": 9
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Mon Apr 03 09:17:26 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "saZcFbMDqlOrmKZq2_hblw",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+    "id_h": "rKeAO-7-TNNVG6TMnMg01w",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492079505580",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    10,
+                    18
+                ],
+                "id_str_h": "I0-chh1bXNx214ofsWhS9Q",
+                "id_h": "I0-chh1bXNx214ofsWhS9Q",
+                "screen_name_h": "jdG66NouJAghDQZW--a30Q",
+                "name_h": "jdG66NouJAghDQZW--a30Q"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [],
+        "urls": [
+            {
+                "indices": [
+                    25,
+                    48
+                ],
+                "expanded_url_h": "http://youtu.be/5ryvUmXNz1F-Lykwbz6sig",
+                "display_url_h": "youtu.be/5ryvUmXNz1F-Lykwbz6sig",
+                "unwound": {
+                    "status": 200,
+                    "description_m": "Dragon Ball Xenoverse Mods PC Gameplay! Omni King of Saiyans and Omni Gogito! Dragon Ball Xenoverse 2 is a game that adds an interesting plot twist to the Dr...",
+                    "url_h": "https://www.youtube.com/6f_FAtCnNkzg3lBCqduiAQ",
+                    "title": "MOST OP MOD EVER! OMNI KING OF SAIYANS - Dragon Ball Xenoverse 2 Mods | Pungence"
+                },
+                "url_h": "https://t.co/EhqkXoLZTo1MonX_rQ25uw"
+            }
+        ]
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "I liked a @un: jdG66NouJAghDQZW--a30Q  video  url: https://t.co/EhqkXoLZTo1MonX_rQ25uw  MOST OP MOD EVER! OMNI KING OF SAIYANS - Dragon Ball Xenoverse 2 Mods | Pungence",
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/NoMslfudm3ebdC5j1sni4Q/hNwrrZMZco9YZSri-DW44Q",
+        "screen_name_h": "wOCaK7FHug4tJ1pOY9yjiA",
+        "geo_enabled": false,
+        "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/GbQtw9E8h4znlmGYkyhS3w/61wMwsMFg0NpY2rxGLl1qg",
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "https://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_h": "GbQtw9E8h4znlmGYkyhS3w",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 38,
+        "protected": false,
+        "location": null,
+        "default_profile_image": false,
+        "listed_count": 0,
+        "utc_offset": null,
+        "statuses_count": 419,
+        "profile_background_color": "C0DEED",
+        "friends_count": 144,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "45q-ouIoDcwm26SRrcdY2Q",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 0,
+        "created_at": "Sun May 24 07:37:03 +0000 2015",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "http://abs.twimg.com/WbUUF0v_5K5AKz1jqtef4A/_gIZQ9zahxUPWQs0da-t7Q/NXOqHAyyvC_YjqcVaZKXxA",
+        "id_str_h": "GbQtw9E8h4znlmGYkyhS3w",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "",
+        "following": null,
+        "description_m": "",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/NoMslfudm3ebdC5j1sni4Q/hNwrrZMZco9YZSri-DW44Q"
+    },
+    "geo": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "omni"
+        ],
+        "created_hod": 10
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 10:31:45 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "rKeAO-7-TNNVG6TMnMg01w",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
+{
+    "quote_count": 0,
+    "contributors": null,
+    "truncated": false,
+    "is_quote_status": false,
+    "reply_count": 0,
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id_h": "N_WX9urozJ4JWH6tCxzViA",
+    "retweeted": false,
+    "coordinates": null,
+    "timestamp_ms": "1492079788262",
+    "entities": {
+        "user_mentions": [
+            {
+                "indices": [
+                    3,
+                    13
+                ],
+                "id_str_h": "5bseaxaG_2ooteSJste46g",
+                "id_h": "5bseaxaG_2ooteSJste46g",
+                "screen_name_h": "-rfxiYSbS9Wrb5aO3pepyA",
+                "name_h": "PRjY9B9gVopcotYFQ7t6CA"
+            },
+            {
+                "indices": [
+                    102,
+                    117
+                ],
+                "id_str_h": "KrmJ_HQF87nPYHQXZ47E-A",
+                "id_h": "KrmJ_HQF87nPYHQXZ47E-A",
+                "screen_name_h": "Spc_G86wOw17_5Gw0fGoiQ",
+                "name_h": "QTp_szLefuUWX1c159lt9A"
+            }
+        ],
+        "symbols": [],
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    25
+                ],
+                "text": "Insurance"
+            },
+            {
+                "indices": [
+                    44,
+                    55
+                ],
+                "text": "Blockchain"
+            },
+            {
+                "indices": [
+                    56,
+                    67
+                ],
+                "text": "Technology"
+            },
+            {
+                "indices": [
+                    70,
+                    80
+                ],
+                "text": "Insurtech"
+            },
+            {
+                "indices": [
+                    81,
+                    89
+                ],
+                "text": "fintech"
+            },
+            {
+                "indices": [
+                    90,
+                    95
+                ],
+                "text": "tech"
+            },
+            {
+                "indices": [
+                    96,
+                    100
+                ],
+                "text": "DLT"
+            }
+        ],
+        "urls": []
+    },
+    "in_reply_to_user_id_str_h": "",
+    "in_reply_to_user_id_h": "",
+    "retweet_count": 0,
+    "favorited": false,
+    "text_m": "RT @un: -rfxiYSbS9Wrb5aO3pepyA : #Insurance Industry Embraces #Blockchain #Technology.\\n\\n#Insurtech #fintech #tech #DLT \\n@un: Spc_G86wOw17_5Gw0fGoiQ \u00e2\u0080\u00a6 ",
+    "retweeted_status": {
+        "quote_count": 1,
+        "contributors": null,
+        "truncated": true,
+        "is_quote_status": false,
+        "reply_count": 0,
+        "favorite_count": 24,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "id_h": "5MeUSG71y6uKcxyNjXLovA",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+            "user_mentions": [
+                {
+                    "indices": [
+                        87,
+                        102
+                    ],
+                    "id_str_h": "KrmJ_HQF87nPYHQXZ47E-A",
+                    "id_h": "KrmJ_HQF87nPYHQXZ47E-A",
+                    "screen_name_h": "Spc_G86wOw17_5Gw0fGoiQ",
+                    "name_h": "QTp_szLefuUWX1c159lt9A"
+                }
+            ],
+            "symbols": [],
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        10
+                    ],
+                    "text": "Insurance"
+                },
+                {
+                    "indices": [
+                        29,
+                        40
+                    ],
+                    "text": "Blockchain"
+                },
+                {
+                    "indices": [
+                        41,
+                        52
+                    ],
+                    "text": "Technology"
+                },
+                {
+                    "indices": [
+                        55,
+                        65
+                    ],
+                    "text": "Insurtech"
+                },
+                {
+                    "indices": [
+                        66,
+                        74
+                    ],
+                    "text": "fintech"
+                },
+                {
+                    "indices": [
+                        75,
+                        80
+                    ],
+                    "text": "tech"
+                },
+                {
+                    "indices": [
+                        81,
+                        85
+                    ],
+                    "text": "DLT"
+                }
+            ],
+            "urls": [
+                {
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "expanded_url_h": "https://twitter.com/hlwMC0qw4GPlyqM4fBqHQQ/web/mstEVJtBVjaXu0kBROxiWA/5MeUSG71y6uKcxyNjXLovA",
+                    "display_url_h": "twitter.com/hlwMC0qw4GPlyqM4fBqHQQ/web/mstEVJtBVjaXu0kBROxiWA/woanxe1OVnBPFCN2_Bcuaw",
+                    "url_h": "https://t.co/yZ7L1RqpdQ4A1GCJ58sp3g"
+                }
+            ]
+        },
+        "in_reply_to_user_id_str_h": "",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "in_reply_to_user_id_h": "",
+        "retweet_count": 22,
+        "favorited": false,
+        "text_m": "#Insurance Industry Embraces #Blockchain #Technology.\\n\\n#Insurtech #fintech #tech #DLT \\n@un: Spc_G86wOw17_5Gw0fGoiQ  @un: QwdxE5W0NbrMznZV7jUraw  @un: qmwRVnuqcC_ZAVcyCNanDQ   url: https://t.co/5DJ72QJIcakaXD92BMNomA ",
+        "user": {
+            "follow_request_sent": null,
+            "profile_use_background_image": true,
+            "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/NfFndBVvHpxsjaYqulxnkw/WfbEqMpt-lXtHN9d0fZ4Mw",
+            "screen_name_h": "-rfxiYSbS9Wrb5aO3pepyA",
+            "geo_enabled": false,
+            "profile_banner_url_h": "https://pbs.twimg.com/AQsv-nMYlZJ0nOByaUjNkw/5bseaxaG_2ooteSJste46g/HAFyz51jAk-XlaelLRbVEg",
+            "verified": false,
+            "translator_type": "none",
+            "profile_background_image_url_https_h": "https://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/bTLanBlU54u5Gy-vW43uMg/jjx9x5JShzaXcVZdfkA-_A",
+            "id_h": "5bseaxaG_2ooteSJste46g",
+            "profile_sidebar_fill_color": "E8E8E8",
+            "is_translator": false,
+            "profile_text_color": "333333",
+            "followers_count": 29623,
+            "protected": false,
+            "location": "Cleveland, OH",
+            "default_profile_image": false,
+            "listed_count": 2709,
+            "utc_offset": null,
+            "statuses_count": 41207,
+            "profile_background_color": "BB0000",
+            "friends_count": 7311,
+            "profile_link_color": "BB0000",
+            "notifications": null,
+            "name_h": "PRjY9B9gVopcotYFQ7t6CA",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 14115,
+            "created_at": "Fri Sep 05 00:04:51 +0000 2008",
+            "contributors_enabled": false,
+            "time_zone": null,
+            "profile_background_image_url_h": "http://pbs.twimg.com/cB0jX8VLTSg-IQk4lbPlvQ/bTLanBlU54u5Gy-vW43uMg/jjx9x5JShzaXcVZdfkA-_A",
+            "id_str_h": "5bseaxaG_2ooteSJste46g",
+            "profile_sidebar_border_color": "000000",
+            "default_profile": false,
+            "url_h": "http://www.jimmarous.com",
+            "following": null,
+            "description_m": "Keynote Speaker, Publisher, Top Global #Fintech Influencer. Co-Publisher of The Financial Brand. Owner of Digital Banking Report  url: http://digitalbankingreport.com ",
+            "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/NfFndBVvHpxsjaYqulxnkw/WfbEqMpt-lXtHN9d0fZ4Mw"
+        },
+        "geo": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "in_reply_to_status_id_h": "",
+        "extension": {
+            "socialsim_search_source": "text and user.screen_name",
+            "socialsim_domain": "PnD Coins",
+            "created_dow": "Thursday",
+            "socialsim_keywords": [
+                "#dlt"
+            ],
+            "created_hod": 6
+        },
+        "in_reply_to_status_id_str_h": "",
+        "created_at": "Thu Apr 13 06:56:12 +0000 2017",
+        "filter_level": "low",
+        "id_str_h": "5MeUSG71y6uKcxyNjXLovA",
+        "in_reply_to_screen_name_h": "",
+        "place": null
+    },
+    "user": {
+        "follow_request_sent": null,
+        "profile_use_background_image": true,
+        "profile_image_url_https_h": "https://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/qv4S8UF7spozmCbcimD_vg/9290CwsOrJc5HvQV_N8Ltg",
+        "screen_name_h": "rS_vWh83uKWw5e4WWTPt1g",
+        "geo_enabled": false,
+        "verified": false,
+        "translator_type": "none",
+        "profile_background_image_url_https_h": "",
+        "id_h": "U1QLNntg6esL0Kjg6IKykA",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "is_translator": false,
+        "profile_text_color": "333333",
+        "followers_count": 6427,
+        "protected": false,
+        "location": "Anywhere",
+        "default_profile_image": false,
+        "listed_count": 1941,
+        "utc_offset": null,
+        "statuses_count": 19696,
+        "profile_background_color": "F5F8FA",
+        "friends_count": 7023,
+        "profile_link_color": "1DA1F2",
+        "notifications": null,
+        "name_h": "ngj5sj5u_0EbryTXagUDFw",
+        "lang": "en",
+        "profile_background_tile": false,
+        "favourites_count": 9132,
+        "created_at": "Sun Nov 20 19:03:44 +0000 2016",
+        "contributors_enabled": false,
+        "time_zone": null,
+        "profile_background_image_url_h": "",
+        "id_str_h": "U1QLNntg6esL0Kjg6IKykA",
+        "profile_sidebar_border_color": "C0DEED",
+        "default_profile": true,
+        "url_h": "",
+        "following": null,
+        "description_m": "Liberal #cleantech #politics #machinelearning #economics #IoT #tech #fintech #deeplearning #DL #science #digital #entrepreneur #startups #AI #martech #bigdata",
+        "profile_image_url_h": "http://pbs.twimg.com/7AMCeGmHQbasIrep4WfyNQ/qv4S8UF7spozmCbcimD_vg/9290CwsOrJc5HvQV_N8Ltg"
+    },
+    "geo": null,
+    "lang": "en",
+    "in_reply_to_status_id_h": "",
+    "extension": {
+        "socialsim_search_source": "text and user.screen_name",
+        "socialsim_domain": "PnD Coins",
+        "created_dow": "Thursday",
+        "socialsim_keywords": [
+            "#dlt"
+        ],
+        "created_hod": 10
+    },
+    "in_reply_to_status_id_str_h": "",
+    "created_at": "Thu Apr 13 10:36:28 +0000 2017",
+    "filter_level": "low",
+    "id_str_h": "N_WX9urozJ4JWH6tCxzViA",
+    "in_reply_to_screen_name_h": "",
+    "place": null
+}
