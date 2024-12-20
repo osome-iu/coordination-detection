@@ -1,6 +1,0 @@
-*~
-data/*
-features/*
-.snakemake/*
-*/*/data/
-.DS_Store
